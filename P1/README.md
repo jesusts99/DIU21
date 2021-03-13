@@ -6,25 +6,26 @@
 En este caso, se ha decidido centrar la búsqueda en un sector más específico como son las aplicaciones de turismo de la ciudad de Madrid. Dentro de las aplicaciones encontradas se pueden destacar las siguientes:
 
 
-Guía Bienvenidos a Madrid: https://apps.apple.com/es/app/gu%C3%ADa-bienvenidos-a-madrid/id632497903
+	**Guía Bienvenidos a Madrid: https://apps.apple.com/es/app/gu%C3%ADa-bienvenidos-a-madrid/id632497903**
 
 Esta aplicación fue creada por la Oficina de Turismo del Ayuntamiento de Madrid con el objetivo de recoger la información esencial para que cualquier turista pudiese preparar su viaje: zonas de interés, restaurantes, actividades de ocio, etc. 
 
-Paseo del Arte Imprescindible: https://www.esmadrid.com/app-paseo-arte-imprescindible
+	**Paseo del Arte Imprescindible: https://www.esmadrid.com/app-paseo-arte-imprescindible**
     
 Se trata de una aplicación dónde se recogen todas las obras de arte del Museo del Prado, el Museo Thyssen-Bornemisza y el Museo Reina Sofía. Gracias a esta app, los usuarios podrán conocer en profundidad las obras de forma amena y sencilla.
 
-Guía Madrid 5D: https://play.google.com/store/apps/details?id=com.jgdelval.rutando.madrid5d
+	**Guía Madrid 5D: https://play.google.com/store/apps/details?id=com.jgdelval.rutando.madrid5d**
 
 Esta aplicación recoge los principales atractivos turísticos de Madrid de una forma bastante atractiva e interactiva. Contiene una gran cantidad de rutas autoguiadas y además permite crear rutas personalizadas de forma fácil e intuitiva.
 
-MSE & Tax Free: https://play.google.com/store/apps/details?id=es.equmedia.Madiva&hl=es_419
+	**MSE & Tax Free: https://play.google.com/store/apps/details?id=es.equmedia.Madiva&hl=es_419**
 
 La aplicación permite a los usuarios encontrar numerosas tiendas, servicios y actividades en Madrid para poder planificar tu viaje. En ella se incluyen descripciones completas de cada servicio ofrecido.
 
-Madrid Turismo: https://play.google.com/store/apps/details?id=turpromadrid.principal&hl=es&gl=US
+	**Madrid Turismo: https://play.google.com/store/apps/details?id=turpromadrid.principal&hl=es&gl=US**
 	
 Se trata de una aplicación muy completa destinada al Turismo en Madrid. Permite llevar un control de los lugares turísticos ya visitados, así como identificar que monumentos están cerca de tu zona actual.
+
 
 A continuación, se incluye una tabla con una análisis competitivo de las distintas aplicaciones:
 
@@ -58,6 +59,7 @@ La segunda experiencia se basa en la investigación de Alejandro para conocer m�
 ----
 
 >>> Para acceder al documento con la Revisión de Usabilidad de la aplicación, [pulse aquí](https://github.com/jesusts99/DIU21/blob/master/P1/UsabilityReview.pdf)
+
 >>> Valoración final (numérica): 63 (Moderate)
 
 Sobre esta valoración, comentar que existen numerosos aspectos bastante mejorables, sobre todo en relación al sistema de búsquedas, navegabilidad y ayudas propuestas. Sin embargo, la aplicación presenta una interfaz bastante sencilla e intuitiva y la información ofrecida resulta de utilidad.
