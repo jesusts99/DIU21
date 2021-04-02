@@ -89,7 +89,7 @@ Sobre esta valoración, comentar que existen numerosos aspectos bastante mejorab
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
 
@@ -204,7 +204,11 @@ Indirectamente, se reflejan las tareas 12, 13, 14, 18.
 
 En esta sección se incluye el mapa del sitio, que muestra las distintas vistas de la aplicación y su navegabilidad, y el labelling, que muestra los distintos elementos gráficos de la aplicación junto con su icono asociado y una breve descripción.
 
+**Sitemap**
+
 ![Sitemap](img/Sitemap_WelcomeToGalera.png)
+
+**Labelling**
 
 ![Labelling](img/Labelling_WelcomeToGalera.jpg)
 
