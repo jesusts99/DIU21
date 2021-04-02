@@ -123,7 +123,7 @@ De este modo, además de la típica información relacionada con monumentos o ga
 
 ![Método UX](img/Sitemap.png) 2.c Tasks analysis 
 -----
-A continuación, se analizarán las principales tareas de la aplicación por medio de un User/Task flow. Se ha decidido usar esta técnica debido a que, al ser una aplicación orientada a un grupo de usuarios concreto, una matriz de tareas/usuarios no reflejaría una información tan completa ya que los perfiles de usuario no son tan variados. Además, en este caso existen numerosas tareas muy relacionadas entre sí, por lo que usar este tipo de diagramas pueden proporcionar una visión más general sobre dichas dependencias.
+A continuación, se analizarán las principales tareas de la aplicación por medio de User/Task flows. Se ha decidido usar esta técnica debido a que, al ser una aplicación orientada a un grupo de usuarios concreto, una matriz de tareas/usuarios no reflejaría una información tan completa ya que los perfiles de usuario no son tan variados. Además, en este caso existen numerosas tareas muy relacionadas entre sí, por lo que usar este tipo de diagramas pueden proporcionar una visión más general sobre dichas dependencias.
 
 A continuación se enumeran las principales tareas de la aplicación:
 
@@ -151,7 +151,7 @@ A continuación se enumeran las principales tareas de la aplicación:
 22. Crear rutas personalizadas.
 23. Consultar rutas personalizadas.
 
-A partir de estar tareas, se han realizado una serie de user/task flows que muestran los pasos a seguir para completar las tareas (task flow) y las distintos caminos que puede tomar el usuario para alcanzarlas (user flow). Muchas de las tareas están relacionadas, por lo que para alcanzarlas se requiere la realización previa de otras. Por tanto, se ha reducido el número de diagramas a ocho, partiendo en cada uno de ellos de una tarea principal y mostrando aquellas que dependen de la misma.
+A partir de estar tareas, se han realizado una serie de User/Task flows que muestran los pasos a seguir para completar las tareas (Task flow) y las distintos caminos que puede tomar el usuario para alcanzarlas (User flow). Muchas de las tareas están relacionadas, por lo que para alcanzarlas se requiere la realización previa de otras. Por tanto, se ha reducido el número de diagramas a ocho, partiendo en cada uno de ellos de una tarea principal y mostrando aquellas que dependen de la misma.
 
 **1. Consultar información de utilidad (sanidad, consejos, normas de comportamiento, etc).**
 
