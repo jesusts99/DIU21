@@ -206,7 +206,7 @@ En esta sección se incluye el mapa del sitio, que muestra las distintas vistas 
 
 ![Sitemap](img/Sitemap_WelcomeToGalera.png)
 
-![Labelling](img/Labelling_WelcomeToGalera.png)
+![Labelling](img/Labelling_WelcomeToGalera.jpg)
 
 
 ![Método UX](img/Wireframes.png) 2.e Wireframes
@@ -214,7 +214,6 @@ En esta sección se incluye el mapa del sitio, que muestra las distintas vistas 
 
 A continuación, se incluyen una serie de bocetos Lo-Fi de las distintas pantallas de la interfaz. 
 
-<center>
 Home             | Useful Information             | Settings
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Wireframes](img/boceto1.png)  |  ![Wireframes](img/boceto2.png) | ![Wireframes](img/boceto3.png) 
@@ -243,7 +242,6 @@ Customized Tours             | Create New Tour             | Customized Tour Exa
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Wireframes](img/boceto19.png)  |  ![Wireframes](img/boceto20.png) | ![Wireframes](img/boceto21.png) 
 
-</center>
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
