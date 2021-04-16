@@ -1,6 +1,4 @@
-# Práctica 2. UX Design  
-
-## Jesús Torres Sánchez - DIU2 - https://github.com/jesusts99/DIU21
+## Práctica 2. UX Design  
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
