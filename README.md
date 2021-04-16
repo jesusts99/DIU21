@@ -247,6 +247,10 @@ Customized Tours             | Create New Tour             | Customized Tour Exa
 ![Wireframes](img/boceto19.png)  |  ![Wireframes](img/boceto20.png) | ![Wireframes](img/boceto21.png) 
 
 
+**Navegación App**
+
+![Labelling](img/navegacion_app.png)
+
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
