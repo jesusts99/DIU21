@@ -2,23 +2,23 @@
 
 ## Moodboard (diseño visual + logotipo)   
 
-# Logotipo
+### Logotipo
 
 ![Logotipo](img/logo.png)
 
 
-# Fuente seleccionada
+### Fuente seleccionada
 
 ![Fuente](img/fuente.png)
 
-# Paleta de colores
+### Paleta de colores
 
  Se ha seleccionado esta paleta de colores a partir de la imagen adjunta, incluyendo los colores más característicos del pueblo: los colores teja claros y oscuros representativos de los tradicionales tejados de las antiguas casas, los colores verdosos asociados a la vegetación típica de la zona (musgo y matorrales) y el azul que recuerda al cielo y el agua del río que atraviesa el pueblo. Además, se han añadido dos colores adicionales a la paleta (lateral derecho de la imagen) con el suficiente contrase y armonía respecto a los seleccionados, orientados a servir como colores de acentuación (botones dedicados a acciones importantes).
 
  ![Fuente](img/colores.png)
 
  
-# Imágenes inspiradoras
+### Imágenes inspiradoras
 
  ![Fuente](img/imagen_inspiradora_1.jpg)
 
