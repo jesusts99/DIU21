@@ -64,8 +64,11 @@ Customized Tours             | Create New Tour             | Customized Tour Exa
 ![Wireframes](img/boceto19_hifi.png)  |  ![Wireframes](img/boceto20_hifi.png) | ![Wireframes](img/boceto21_hifi.png) 
 
 **Demo con el funcionamiento de la app**
+ 
+ 
+https://user-images.githubusercontent.com/48240529/116987027-d4e5c300-acce-11eb-8db2-72d9e7f3f06d.mp4
 
-![Labelling](img/demo_app.mp4)
+
 
 ## Documentación: Publicación del Case Study
 
