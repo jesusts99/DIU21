@@ -29,7 +29,7 @@
 
 ## Landing Page
 
- ![Fuente](img/landing_page.png)
+ ![Fuente](img/landing_page.jpg)
 
 ## Mockup: LAYOUT HI-FI
 
