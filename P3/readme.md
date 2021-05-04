@@ -1,6 +1,7 @@
 # DIU - Practica 3
 
-## Moodboard (diseño visual + logotipo)   
+![Método UX](img/moodboard.png) 3.a Moodboard
+-----
 
  ![Fuente](img/moodboard.jpg)
 
@@ -21,20 +22,24 @@ Se ha seleccionado Roboto ya que, además de ser un tipo de fuente accesible y l
 
 * **Logotipo**
 
-Partiendo de los colores y el tipo de fuente seleccionada, se ha creado un logotipo sencillo pero efectista, dotando a la aplicación de una imagen moderna y actual.
+Partiendo de los colores y el tipo de fuente seleccionada, se ha creado un logotipo sencillo pero efectista, dotando a la aplicación de una imagen moderna y actual. Este logotipo se ha creado usando la herramienta Adobe Photoshop con distintas resoluciones, totalmente aplicable como imagen de cabecera de distintas redes sociales como Twitter o Facebook.
 
 * **Iconos**
 
 En este caso, se han reemplazado los iconos incluidos en la bocetaje inicial por otros más accesibles (aspecto comentado posteriormente en relación a las guías de estilo).
 
- 
-## Landing Page
+
+ ![Método UX](img/landing-page.png)  3.b Landing Page
+----
 
 Para promocionar la aplicación, se ha bocetado una página web Onboarding con el objetivo fundamental de atraer la atención del usuario. Para ello, se ha utilizado una imagen de la zona como gráfico de refuerzo, así como una serie de testimonios que sirven de apoyo emocional para hacer que la propuesta sea deseable de cara al usuario.
 
  ![Fuente](img/landing_page.jpg)
 
-## UI Patterns
+
+![Método UX](img/guidelines.png) 3.c Guidelines
+----
+
 Toda la información en referencia a los patrones considerados a la hora de realizar el diseño de la aplicicación se han extradido de http://ui-patterns.com/patterns y https://mobbin.design/patterns.
     
 A la hora de comentar los patrones utilizados, debemos realizar una categorización inicial según el tipo de componentes que se ven afectados:
@@ -58,9 +63,7 @@ A la hora de comentar los patrones utilizados, debemos realizar una categorizaci
    5. **Valoración**: patrón utilizado para el sistema de valoración de los items turísticos.
 
 
-## Guidelines
-
-A la hora de diseñar la aplicación, al estar orientada a dispositivos Android se han utilizado las guías de estilo Android de Google (https://material.io/develop/android). En estas guías se comentan de forma detallada todos los aspectos de diseño a considerar en este tipo de dispositivos, destacando los siguientes:
+Respecto a las guías de estilo consideradas a la hora de diseñar la aplicación, al estar orientada a dispositivos Android se han utilizado las guías de estilo Android de Google (https://material.io/develop/android). En estas guías se comentan de forma detallada todos los aspectos de diseño a considerar en este tipo de dispositivos, destacando los siguientes:
 * Los iconos utilizados deben ser muy gráficos y se deben evitar detalles demasiado precisos que dificulten su compresión. Por este motivo, se han reemplazado los iconos de la práctica anterior por unos nuevos que cumplen las recomendaciones especificadas (http://fontawesome.io/).
 * La aplicación cuenta con una barra de navegación inferior que permite desplazarse entre las vistas principales de la aplicación.
 * Las regiones de cada vista deben diferenciarse correctamente, haciendo uso de una rejilla en el diseño para garantizar que la aplicación es responsiva.
@@ -74,7 +77,8 @@ A la hora de diseñar la aplicación, al estar orientada a dispositivos Android 
 * Todos los componentes deben cumplir con el contraste suficiente como para ser distinguidos a simple vista, teniendo en cuenta la presencia de usuarios potenciales con dificultades visuales o daltonismo.
         
 
-## Mockup: LAYOUT HI-FI
+![Método UX](img/mockup.png)  3.d Mockup
+----
 
 A continuación, se incluyen una serie de bocetos Hi-Fi de las distintas pantallas de la interfaz creados a partir de Adobe XD teniendo en cuenta los patrones y guías de estilo comentadas previamente:
 
@@ -115,4 +119,10 @@ Edit Tour  |
 Finalmente, se incluye una demo dónde se muestra el funcionamiento de la aplicación a partir del simulador de Adobe XD. Comentar que se ha probado la aplicación en diferentes dispositivos móviles para garantizar su funcionamiento responsivo.
  
 https://user-images.githubusercontent.com/48240529/116987027-d4e5c300-acce-11eb-8db2-72d9e7f3f06d.mp4
+
+
+![Método UX](img/caseStudy.png) 3.e My UX-Case Study
+-----
+
+A continuación, se adjunta un breve vídeo con un resumen del proceso de diseño de la aplicación:
 
