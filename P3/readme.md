@@ -19,29 +19,33 @@ Home             | Useful Information             | Settings
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Wireframes](img/boceto1_hifi.png)  |  ![Wireframes](img/boceto2_hifi.png) | ![Wireframes](img/boceto3_hifi.png) 
 
-Tourist Attractions             | Search             | Lookouts
+Places             | Search             | Lookouts
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Wireframes](img/boceto4_hifi.png)  |  ![Wireframes](img/boceto5_hifi.png) | ![Wireframes](img/boceto6_hifi.png) 
 
-Item Information             | Item Location             | Item Chat
+Item Information (Place)             | Item Information (Event)           | Item Contact (Event)
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Wireframes](img/boceto7_hifi.png)  |  ![Wireframes](img/boceto8_hifi.png) | ![Wireframes](img/boceto9_hifi.png) 
 
-Gastronomy             | Typical Food             | Activities and Events
+Item Details (Event)             | Item Location (Event)            | Item Chat (Place)
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Wireframes](img/boceto10_hifi.png)  |  ![Wireframes](img/boceto11_hifi.png) | ![Wireframes](img/boceto12_hifi.png) 
 
-Item Contact              | Item Payment             | Item Considerations
+Item Payment              | Events             | Food
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Wireframes](img/boceto13_hifi.png)  |  ![Wireframes](img/boceto14_hifi.png) | ![Wireframes](img/boceto15_hifi.png) 
 
-Plan Your Trip             | Default Tours            | Default Tour Example
+Tours             | Typical Food         | Default Tours
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Wireframes](img/boceto16_hifi.png)  |  ![Wireframes](img/boceto17_hifi.png) | ![Wireframes](img/boceto18_hifi.png) 
 
-Customized Tours             | Create New Tour             | Customized Tour Example
+Item Information (Tour)             | Create New Tour             | Customized Tours
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Wireframes](img/boceto19_hifi.png)  |  ![Wireframes](img/boceto20_hifi.png) | ![Wireframes](img/boceto21_hifi.png) 
+
+Edit Tour
+:-------------------------:|
+[Wireframes](img/boceto22_hifi.png) 
 
 **Demo con el funcionamiento de la app**
  
