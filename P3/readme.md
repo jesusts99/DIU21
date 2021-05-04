@@ -47,15 +47,8 @@ Edit Tour  |
 :-------------------------:|
 <img src="img/boceto22_hifi.png" alt="drawing" width="300"/>
 
-**Demo con el funcionamiento de la app**
+##**Demo con el funcionamiento de la app**
  
  
 https://user-images.githubusercontent.com/48240529/116987027-d4e5c300-acce-11eb-8db2-72d9e7f3f06d.mp4
 
-
-
-## Documentación: Publicación del Case Study
-
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
- 
