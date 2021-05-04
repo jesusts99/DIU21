@@ -45,7 +45,7 @@ Item Information (Tour)             | Create New Tour             | Customized T
 
 Edit Tour
 :-------------------------:|
-[Wireframes](img/boceto22_hifi.png) 
+![Wireframes](img/boceto22_hifi.png) 
 
 **Demo con el funcionamiento de la app**
  
