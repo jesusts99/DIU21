@@ -121,8 +121,3 @@ Finalmente, se incluye una demo dónde se muestra el funcionamiento de la aplica
 https://user-images.githubusercontent.com/48240529/116987027-d4e5c300-acce-11eb-8db2-72d9e7f3f06d.mp4
 
 
-![Método UX](img/caseStudy.png) 3.e My UX-Case Study
------
-
-A continuación, se adjunta un breve vídeo con un resumen del proceso de diseño de la aplicación:
-
