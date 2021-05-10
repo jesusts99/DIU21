@@ -289,7 +289,7 @@ En este caso, se han reemplazado los iconos incluidos en la bocetaje inicial por
 
 Para promocionar la aplicación, se ha bocetado una página web Onboarding con el objetivo fundamental de atraer la atención del usuario. Para ello, se ha utilizado una imagen de la zona como gráfico de refuerzo, así como una serie de testimonios que sirven de apoyo emocional para hacer que la propuesta sea deseable de cara al usuario.
 
- ![Fuente](img/landing_page.jpg)
+ ![Fuente](img/landing_page.png)
 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
