@@ -1,7 +1,4 @@
 # Práctica 4
-## Grupo JTS - Jesús Torres Sánchez - DIU2
-## https://github.com/jesusts99/DIU21
-
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
@@ -66,5 +63,5 @@ Tal y como se puede observar en la imagen, ambas aplicaciones cuentan con result
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
-Finalmente, a partir de la información obtenida previamente se ha realizado un informe de Usabilidad del caso B, el cual se puede acceder pulsando [aquí](https://github.com/jesusts99/DIU21/blob/master/P4/P4_UsabReport_DIU1_PJ_doneby_DIU2_JTS.pdf) (también se adjunta como fichero independiente en la entrega).
+Finalmente, a partir de la información obtenida previamente se ha realizado un informe de Usabilidad del caso B, el cual se puede acceder pulsando [aquí](https://github.com/jesusts99/DIU21/blob/master/P4/P4_UsabReport_DIU1_PJ_doneby_DIU2_JTS.pdf).
 
