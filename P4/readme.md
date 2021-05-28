@@ -59,10 +59,10 @@ A continuación, se adjunta una imagen con los resultados obtenidos en el cuesti
 
 ![Método UX](img/Cuestionario_SUS.jpg)
 
-Tal y como se puede observar en la imagen, ambas aplicaciones cuentan con resultados bastante buenos en términos de usabilidad. En ambos casos, la media está acotada por el intervalo [80-90], lo que determina un nivel de usabilidad aceptable tipo B. 
+Tal y como se puede observar en la imagen, ambas aplicaciones cuentan con resultados bastante buenos en términos de usabilidad. En ambos casos, la media está acotada por el intervalo [80-90], lo que determina un nivel de usabilidad aceptable tipo B. En general, los usuarios se sienten bastante satisfechos con las aplicaciones, transmitiendo una sensación de alegría y tranquilidad.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
-Finalmente, a partir de la información obtenida previamente se ha realizado un informe de Usabilidad del caso B, el cual se puede acceder pulsando [aquí](https://github.com/jesusts99/DIU21).
+Finalmente, a partir de la información obtenida previamente se ha realizado un informe de Usabilidad del caso B, el cual se puede acceder pulsando [aquí](https://github.com/jesusts99/DIU21/blob/master/P4/P4_UsabReport_DIU1_PJ_doneby_DIU2_JTS.pdf).
 
